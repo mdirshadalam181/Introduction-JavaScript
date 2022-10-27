@@ -13,10 +13,12 @@ In case of compiler the complete code gets converted into machine level in a sin
 
 Javascript is a combination of both compiler and interpreter and it works on the concept of JIT (Just in time compilation). In this the whole code gets compiled in one single shot and then directly it goes for execution , no file gets generated.
 
-Javascript is a -
+Question : What is js?
 
 Synchronous lanaguage means the complete code will be executed line by line
 Single Threaded language means once the error occurs then the execution will stop at that line itself.
 Dynamic Programming Language means when you are creating a variable and assigning it some value then this value type can be changed throughout the whole code execution which is not applicable in other programming languages.
 Js is a scripting Language means it uses the browser to do the work for it.
 Js is a Object Oriented Language(Oops) for webpage.
+
+
