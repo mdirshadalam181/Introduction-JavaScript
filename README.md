@@ -1,5 +1,5 @@
 # Introduction-JavaScript
-Detail about the javaScript and javaScript engine
+->  Detail about the javaScript and javaScript engine.
 
 
 
