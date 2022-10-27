@@ -18,4 +18,5 @@ Javascript is a -
 Synchronous lanaguage means the complete code will be executed line by line
 Single Threaded language means once the error occurs then the execution will stop at that line itself.
 Dynamic Programming Language means when you are creating a variable and assigning it some value then this value type can be changed throughout the whole code execution which is not applicable in other programming languages.
-Js is a scripting Language means it uses the browser to do the work for it
+Js is a scripting Language means it uses the browser to do the work for it.
+Js is a Object Oriented Language(Oops) for webpage.
