@@ -1,1 +1,26 @@
--> Detail about datatypes 
+-> Detail about datatypes, variables
+
+
+Question : Datatypes
+
+Datatypes describes the different types of data that we are taking and storing in variable.
+
+-> There are two types of Datatye:-
+
+i)  Primitive Datatype :- The Pre dedined datatype that are provided by the JavaScript Language is known as primitive datatype.
+
+.   There are 7 types of primitive datatype.
+a)  String
+b)  Number
+c)  Boolean
+d)  Symbol
+e)  Undefined
+f)  Null
+g)  bigint
+
+ii) Non- Primitive Datatype :- The datatypes that are defined by user are known as non- primitive datatype.
+
+-> There are 2 types of non-primitive datatype.
+a)  Object
+b)  Array
+
